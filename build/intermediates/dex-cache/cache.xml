@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\android-instagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c51d27bbd40b70ada4ed74eac247382a45eb74ef">
+        <dex dex="C:\Users\user\AndroidStudioProjects\android-instagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f2efac0f43016850e4ac83766918bda7895129a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\android-instagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="86f477fd443b7b14dfd00544dba89c786c65d429">
+        <dex dex="C:\Users\user\AndroidStudioProjects\android-instagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3708bce383fa59322196c6cd864756ac4cb639b1\classes.dex" />
+    </item>
+
+</items>

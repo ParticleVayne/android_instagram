@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile.jpg",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\src\\main\\res\\drawable-hdpi\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backi.jpg",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\src\\main\\res\\drawable-hdpi\\backi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\android-instagram\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    }
+]
